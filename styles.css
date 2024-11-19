@@ -18,3 +18,10 @@ h1{
     color: blueviolet;
     font-size: 40px;
 }
+
+.dubaii {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: darkred;
+}
